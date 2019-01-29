@@ -6,7 +6,7 @@ margin: 0 auto; /* This automatically sets left/right margins */
 width: 600px;
 background-color: #D7DDDB;
 text-align: center;
-border-radius: 5;
+border-radius: 8px;
 padding: 10px;
 box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
 margin: 10 auto;
