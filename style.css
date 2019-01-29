@@ -1,0 +1,67 @@
+.container {
+width: 800px;   /* This sets the width */
+margin: 0 auto; /* This automatically sets left/right margins */
+}
+.card{
+width: 600px;
+background-color: #D7DDDB;
+text-align: center;
+border-radius: 5;
+padding: 10px;
+box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+margin: 10 auto;
+}
+#first-button{
+background-color: #CDAEA4;
+border-radius: 10px;
+}
+#first-button:hover {
+opacity: 0.7;
+}
+body {
+background-color:#CDAEA4;
+font-family: 'Patrick Hand', cursive;
+}
+.table-pic {
+width: 250px;
+height: 200px;
+}
+#profile-pic {
+width: 190px;
+height: 190px;
+border-radius: 85px;
+box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+background-image: url('images/profile1.jpg');
+background-position: center;
+margin:0 auto;
+}
+h1 {
+font-family:'Patrick Hand', cursive;
+}
+.inline li {
+display: inline-block;
+}
+a:hover {
+text-decoration: none;
+opacity: 0.5;
+color: red;
+}
+a{
+color: #CDAEA4;
+text-decoration: none;
+}
+.social {
+font-size: 40px;
+}
+.list-style  {
+list-style-type: none;
+}
+.fontforlink {
+color: black;
+text-decoration: none;
+}
+.fontforlink:hover {
+text-decoration: none;
+opacity: 0.5;
+color: #CDAEA4;
+}
